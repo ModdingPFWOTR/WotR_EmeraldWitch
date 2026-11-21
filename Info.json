@@ -1,0 +1,14 @@
+{
+  "Id": "EmeraldWitch",
+  "DisplayName": "Emerald Witch",
+  "Author": "Picninim piq",
+  "Version": "0.1.0",
+  "ManagerVersion": "0.23.0",
+  "GameVersion": "2.7.0",
+  "Requirements": [],
+  "LoadAfter": [],
+  "AssemblyName": "EmeraldWitch.dll",
+  "EntryMethod": "EmeraldWitch.Main.Load",
+  "HomePage": "",
+  "Repository": ""
+}

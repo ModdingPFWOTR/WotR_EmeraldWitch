@@ -1,0 +1,12 @@
+{
+  "dotnet.defaultSolution": "EmeraldWitch.sln",
+  "omnisharp.useModernNet": true,
+  "files.exclude": {
+    "**/bin": true,
+    "**/obj": true
+  },
+  "search.exclude": {
+    "**/bin": true,
+    "**/obj": true
+  }
+}
